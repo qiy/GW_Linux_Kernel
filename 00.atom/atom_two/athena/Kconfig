@@ -1,0 +1,1 @@
+source "drivers/misc/athena/atom_light/Kconfig"

@@ -1,0 +1,1 @@
+在mediatek目录下实现pwm控制led，pwm驱动已分开；

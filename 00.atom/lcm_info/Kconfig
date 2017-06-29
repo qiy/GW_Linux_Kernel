@@ -1,0 +1,10 @@
+#
+# lcm_info subsystem configuration
+#
+
+config LCMINFO
+    tristate "Lcm_info Operation in kernel support" 
+    default y
+    help
+        LCMINFO is a kernel module that used to get lcm info.
+

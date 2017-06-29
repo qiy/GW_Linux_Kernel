@@ -1,0 +1,6 @@
+config CPJ_ATOM_LIGHT
+  bool CONFIG_CPJ_ATOM_LIGHT
+  default y
+  help
+    CONFIG_CPJ_ATOM_LIGHT
+

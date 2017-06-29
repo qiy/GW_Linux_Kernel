@@ -1,0 +1,5 @@
+config DEWAV_FINGERBUTTON
+	bool "DEWAV_FINGERBUTTON"
+	help
+		Support Dewav FingerButton
+

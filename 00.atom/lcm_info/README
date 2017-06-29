@@ -1,0 +1,18 @@
+Kernel Module: lcm_info 
+
+I write this module to show the lcm supported and lcm used information 
+with proc files .
+
+We can see the ancient code which to realize this function is too bad 
+as the evil codeing style! I'd hate it! That is the reasion the module 
+was written.
+
+Now I get the LCM name which is used by the MTK implement.
+
+By the way, you can see some code which is not useful to the proc files 
+such as open read write lseek. They are the legacy of my cdev driver. 
+Never mind.
+
+Nikos 
+2016-11-09
+
